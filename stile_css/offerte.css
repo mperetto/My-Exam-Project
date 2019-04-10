@@ -1,0 +1,17 @@
+div.navig{
+	width: 100%;
+	height: auto;
+	background-color: none;
+	float: left;
+}
+.cambio_pag{
+	background-color: #3b5998;
+	margin: 10px;
+	height: 30px;
+	color: white;
+	border: 3px solid blue;
+	border-radius: 20px;
+	font-family: roboto, san-serif, calibri;
+	font-size: 18px;
+}
+.cambio_pag:hover{cursor: hand;}

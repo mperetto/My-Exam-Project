@@ -1,0 +1,4 @@
+estraggo prime n righe sql
+
+SELECT * FROM `ticket` WHERE ticket_ID >3 LIMIT 4
+https://forum.mrwebmaster.it/threads/sql-prelevare-le-ultime-n-righe.27535/

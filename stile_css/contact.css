@@ -1,0 +1,35 @@
+div.divcontainer{
+	width: 95%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: none;
+	clear: both;
+}
+p.titleh3{
+	font-size: 40px;
+	border: 2px solid #3b5998;
+	border-radius: 20px;
+	width: 50%;
+}
+div.divform{
+	width: 100%;
+	height: auto;
+	float: left;
+	display: block;
+	margin: 10px;
+	background-color: none;
+	border: none;
+	/*border-radius: 20px;*/
+}
+.map{
+	border: 5px solid #cccccc;
+}
+p.cont{
+	font-size: 25px;
+}
+@media screen and (max-width:700px){
+	div.divform{width: 100%;}
+	.img_divf{width: 100%;}
+	p.titleh3{width:100%}
+}
